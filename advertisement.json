@@ -1,0 +1,28 @@
+﻿{
+  "adsList": [
+    {
+      "text": "My Ad",
+      "link": "http://www.google.com"
+    },
+    {
+      "text": "My Ad2 hi",
+      "link": "http://www.google.com"
+    },
+    {
+      "text": "My Ad3 hi",
+      "link": "http://www.google.com"
+    },
+    {
+      "text": "fourth ad added",
+      "link": "http://www.google.com"
+    },
+    {
+      "text": "five ad added",
+      "link": "http://www.google.com"
+    },
+    {
+      "text": "testing six ad added",
+      "link": "http://www.google.com"
+    }
+  ]
+}
