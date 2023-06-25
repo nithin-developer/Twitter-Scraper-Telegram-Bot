@@ -1,6 +1,5 @@
 # Twitter Scraper Telegram Bot
 
-![Twitter Scraper Telegram Bot](bot_image.png)
 
 The Twitter Scraper Telegram Bot is a Python-based bot developed to scrape tweets from influencers' Twitter accounts and send them via Telegram. This bot utilizes the `snscrape` library to fetch tweets and the Telegram Bot API to send the scraped tweets to specified Telegram channels or users.
 
